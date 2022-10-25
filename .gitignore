@@ -1,2 +1,3 @@
 .pgpass
 *.zip
+.vscode/*
